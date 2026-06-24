@@ -162,3 +162,5 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
+
+<!-- stats-refresh: 2026-06-24T22:16:33Z -->
