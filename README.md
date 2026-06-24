@@ -72,34 +72,20 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 
 <div align="center">
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&theme=github_dark&title_color=3B82F6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&count_private=true&hide_border=false&rank_icon=percentile&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=github_dark&title_color=3B82F6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&langs_count=8&hide_border=false&card_width=380" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&count_private=true&rank_icon=percentile&include_all_commits=true" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com/?user=mehedi2580&theme=github-dark-blue&background=0d1117&border=21262d&stroke=3B82F6&ring=8B5CF6&fire=22D3EE&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+<img width="98%" src="https://streak-stats.demolab.com?user=mehedi2580&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi2580&theme=github-compact&bg_color=0d1117&color=3B82F6&line=8B5CF6&point=22D3EE&area=true&area_color=3B82F6&hide_border=false&custom_title=📈%20Contribution%20Graph%20(mehedi2580)" />
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi2580&theme=github_dark" />
-
-</div>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedi2580&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedi2580&theme=github_dark" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedi2580&theme=github_dark&utcOffset=6" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi2580&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -176,5 +162,3 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-<!-- stats-refresh: 2026-06-24T22:06:42Z -->
