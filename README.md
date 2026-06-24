@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=600&lines=Web3+Enthusiast+%F0%9F%8C%90;Crypto+Researcher+%F0%9F%94%AC;Community+Contributor+%F0%9F%A4%9D;DeFi+Explorer+%F0%9F%8F%A6;Testnet+Participant+%F0%9F%A7%AA;Open+Source+Builder+%F0%9F%9B%A0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&multiline=false&width=650&lines=Web3+Enthusiast+%F0%9F%8C%90;Crypto+Researcher+%F0%9F%94%AC;Community+Contributor+%F0%9F%A4%9D;DeFi+Explorer+%F0%9F%8F%A6;Testnet+Participant+%F0%9F%A7%AA;Open+Source+Builder+%F0%9F%9B%A0)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,8 +17,8 @@
 [![X](https://img.shields.io/badge/X-@0xZeroBit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xZeroBit)
 [![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mehedi322)
 [![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/988021249944989790)
-[![GitHub Followers](https://img.shields.io/github/followers/0xZeroBit?style=for-the-badge&logo=github&color=3B82F6)](https://github.com/0xZeroBit?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=0xZeroBit&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS)](https://github.com/0xZeroBit)
+[![GitHub Followers](https://img.shields.io/github/followers/mehedi2580?style=for-the-badge&logo=github&color=3B82F6&label=Followers)](https://github.com/mehedi2580?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=mehedi2580&style=for-the-badge&color=3B82F6&label=PROFILE+VIEWS)](https://github.com/mehedi2580)
 
 </div>
 
@@ -26,21 +26,9 @@
 
 ## 👤 About Me
 
-```ts
-const zeroBit = {
-  name      : "Mehedi Hasan",
-  alias     : "0xZeroBit",
-  location  : "Bangladesh 🇧🇩",
-  focus     : ["Web3", "DeFi", "Crypto Research", "Community"],
-  exploring : ["Emerging Protocols", "Testnets", "Airdrops", "Decentralized Infra"],
-  building  : "Open-source tools for the Web3 community",
-  belief    : "Decentralization is the future of finance 🌐",
-};
-```
-
 Passionate about **blockchain technology**, **DeFi ecosystems**, and **community-driven projects**. I spend my time researching emerging protocols, participating in testnets, tracking airdrop opportunities, and contributing to open-source infrastructure across the decentralized web.
 
-- 🔭 Currently exploring Layer 2 scaling solutions and ZK protocols
+- 🔭 Currently building **[ARC-Community](https://github.com/mehedi2580/ARC-Community)** — a social-driven Web3 platform for creators, builders & traders
 - 🌱 Learning **Solidity**, **smart contract security**, and **on-chain data analysis**
 - 🤝 Open to collaborating on **Web3 tools**, **DeFi research**, and **community projects**
 - 💬 Ask me about **crypto research**, **testnets**, **airdrops**, or **DeFi strategies**
@@ -82,32 +70,24 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=0xZeroBit&show_icons=true&theme=github_dark&title_color=3B82F6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&count_private=true&hide_border=false" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xZeroBit&layout=compact&theme=github_dark&title_color=3B82F6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&langs_count=8&hide_border=false" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&theme=github_dark&title_color=3B82F6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&count_private=true&hide_border=false&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=github_dark&title_color=3B82F6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&langs_count=8&hide_border=false&card_width=380" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://streak-stats.demolab.com/?user=0xZeroBit&theme=github-dark-blue&background=0d1117&border=21262d&stroke=3B82F6&ring=8B5CF6&fire=22D3EE&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&hide_border=false" />
+<img width="98%" src="https://streak-stats.demolab.com/?user=mehedi2580&theme=github-dark-blue&background=0d1117&border=21262d&stroke=3B82F6&ring=8B5CF6&fire=22D3EE&currStreakNum=F9FAFB&sideNums=F9FAFB&currStreakLabel=3B82F6&sideLabels=9CA3AF&dates=6B7280&hide_border=false&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=0xZeroBit&theme=github-compact&bg_color=0d1117&color=3B82F6&line=8B5CF6&point=22D3EE&area=true&area_color=3B82F6&hide_border=false&custom_title=Contribution%20Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi2580&theme=github-compact&bg_color=0d1117&color=3B82F6&line=8B5CF6&point=22D3EE&area=true&area_color=3B82F6&hide_border=false&custom_title=📈%20Contribution%20Graph%20(mehedi2580)" />
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=0xZeroBit&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
+> 🔄 **Stats auto-refresh every 4 hours** via GitHub Actions — always showing live data.
 
 ---
 
@@ -158,42 +138,14 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 
 ---
 
-## 📈 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0xZeroBit/0xZeroBit/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0xZeroBit/0xZeroBit/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/0xZeroBit/0xZeroBit/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-> 💡 To enable the snake animation, add a GitHub Actions workflow — see [platane/snk](https://github.com/platane/snk) for setup.
-
-</div>
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
 
-| Platform | Handle | Link |
-|:---:|:---:|:---:|
-| 🐦 **X / Twitter** | @0xZeroBit | [x.com/0xZeroBit](https://x.com/0xZeroBit) |
-| ✈️ **Telegram** | @Mehedi322 | [t.me/Mehedi322](https://t.me/Mehedi322) |
-| 💬 **Discord** | 0xZeroBit | [discordapp.com/users/988021249944989790](https://discordapp.com/users/988021249944989790) |
-| 🐙 **GitHub** | @0xZeroBit | [github.com/0xZeroBit](https://github.com/0xZeroBit) |
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-[![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-@0xZeroBit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xZeroBit)
+[![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mehedi322)
+[![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/988021249944989790)
+[![GitHub](https://img.shields.io/badge/GitHub-@mehedi2580-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedi2580)
 
 </div>
 
