@@ -28,7 +28,9 @@
 
 Passionate about **blockchain technology**, **DeFi ecosystems**, and **community-driven projects**. I spend my time researching emerging protocols, participating in testnets, tracking airdrop opportunities, and contributing to open-source infrastructure across the decentralized web.
 
-- 🔭 Currently building **[ARC-Community](https://github.com/mehedi2580/ARC-Community)** — a social-driven Web3 platform for creators, builders & traders
+- 🔭 Currently building two projects:
+  - **[ARC-Community](https://github.com/mehedi2580/ARC-Community)** — a social-driven Web3 platform connecting creators, builders, traders & online communities in one onchain ecosystem
+  - **[Shelby-Hub](https://github.com/mehedi2580/Shelby-Hub)** — a JavaScript-powered hub project currently in active development
 - 🌱 Learning **Solidity**, **smart contract security**, and **on-chain data analysis**
 - 🤝 Open to collaborating on **Web3 tools**, **DeFi research**, and **community projects**
 - 💬 Ask me about **crypto research**, **testnets**, **airdrops**, or **DeFi strategies**
@@ -70,7 +72,7 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 
 <div align="center">
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&theme=github_dark&title_color=3B82F6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&count_private=true&hide_border=false&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&theme=github_dark&title_color=3B82F6&icon_color=8B5CF6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&count_private=true&hide_border=false&rank_icon=percentile&include_all_commits=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" />
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=github_dark&title_color=3B82F6&text_color=9CA3AF&bg_color=0d1117&border_color=21262d&langs_count=8&hide_border=false&card_width=380" />
 
 </div>
@@ -84,6 +86,25 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 <div align="center">
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi2580&theme=github-compact&bg_color=0d1117&color=3B82F6&line=8B5CF6&point=22D3EE&area=true&area_color=3B82F6&hide_border=false&custom_title=📈%20Contribution%20Graph%20(mehedi2580)" />
+
+</div>
+
+<div align="center">
+
+### 🏅 Developer Rank
+
+| Rank | Threshold | Description |
+|:----:|:---------:|:------------|
+| **S+** | Top 1% | Legendary — elite global contributor |
+| **S** | Top 5% | Outstanding — high-impact open source builder |
+| **A+** | Top 10% | Excellent — consistent & prolific contributor |
+| **A** | Top 25% | Great — strong commit & contribution history |
+| **A-** | Top 40% | Good — growing developer with solid activity |
+| **B** | Top 55% | Average — regular contributions across repos |
+| **C** | Top 75% | Developing — early stage, building momentum |
+| **D** | Top 100% | Beginner — just getting started on GitHub |
+
+> 📌 Rank is calculated by `github-readme-stats` based on commits, PRs, issues, reviews, stars & followers — weighted against all GitHub users globally. Your current rank is shown live on the stats card above (`rank_icon=percentile`).
 
 </div>
 
@@ -160,5 +181,3 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-<!-- stats-refresh: 2026-06-24T21:57:07Z -->
