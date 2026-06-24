@@ -91,20 +91,15 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 
 <div align="center">
 
-### 🏅 Developer Rank
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehedi2580&theme=github_dark" />
 
-| Rank | Threshold | Description |
-|:----:|:---------:|:------------|
-| **S+** | Top 1% | Legendary — elite global contributor |
-| **S** | Top 5% | Outstanding — high-impact open source builder |
-| **A+** | Top 10% | Excellent — consistent & prolific contributor |
-| **A** | Top 25% | Great — strong commit & contribution history |
-| **A-** | Top 40% | Good — growing developer with solid activity |
-| **B** | Top 55% | Average — regular contributions across repos |
-| **C** | Top 75% | Developing — early stage, building momentum |
-| **D** | Top 100% | Beginner — just getting started on GitHub |
+</div>
 
-> 📌 Rank is calculated by `github-readme-stats` based on commits, PRs, issues, reviews, stars & followers — weighted against all GitHub users globally. Your current rank is shown live on the stats card above (`rank_icon=percentile`).
+<div align="center">
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mehedi2580&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mehedi2580&theme=github_dark" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mehedi2580&theme=github_dark&utcOffset=6" />
 
 </div>
 
@@ -181,5 +176,3 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-<!-- stats-refresh: 2026-06-24T22:02:17Z -->
