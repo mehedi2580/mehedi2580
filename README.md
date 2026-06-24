@@ -72,20 +72,20 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 
 <div align="center">
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F85D7F&count_private=true&rank_icon=percentile&include_all_commits=true" />
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&langs_count=8" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=default&count_private=true&include_all_commits=true" />
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=mehedi2580&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F&sideLabels=F85D7F&dates=9CA3AF&sideNums=FFFFFF&currStreakNum=FFFFFF&date_format=j%20M%5B%20Y%5D" />
+<img width="98%" src="https://streak-stats.demolab.com?user=mehedi2580&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9&date_format=j%20M%5B%20Y%5D" />
 
 </div>
 
 <div align="center">
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi2580&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area=true&area_color=F85D7F&hide_border=true&custom_title=Contribution%20Graph" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mehedi2580&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&area_color=58A6FF&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
@@ -162,5 +162,3 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-<!-- stats-refresh: 2026-06-24T22:12:50Z -->
