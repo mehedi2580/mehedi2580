@@ -134,7 +134,7 @@
 
 <h2 align="left" id="mehedi2580-stats">Activities, Stats & Rating</h2>
 
-> A cleaner activity dashboard with a clear contribution rating scale.
+> A cleaner activity dashboard with a clear contribution rating scale. The conflict resolution keeps the refreshed profile UI and the complete rating system together.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Current%20Goal-S%2B-05E8BA?style=for-the-badge&labelColor=087EE1" alt="Current goal S+" />
