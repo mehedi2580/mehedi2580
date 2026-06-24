@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=0xZeroBit&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Mehedi%20Hasan%20%7C%20Web3%20Enthusiast%20%7C%20Crypto%20Researcher&descAlignY=60&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Mehedi%20Hasan&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=0xZeroBit%20%7C%20Web3%20Enthusiast%20%7C%20Crypto%20Researcher&descAlignY=60&descSize=18" width="100%" />
 
 </div>
 
@@ -26,15 +26,13 @@
 
 ## 👤 About Me
 
-Passionate about **blockchain technology**, **DeFi ecosystems**, and **community-driven projects**. I spend my time researching emerging protocols, participating in testnets, tracking airdrop opportunities, and contributing to open-source infrastructure across the decentralized web.
+Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecosystems**.
 
-- 🔭 Currently building two projects:
-  - **[ARC-Community](https://github.com/mehedi2580/ARC-Community)** — a social-driven Web3 platform connecting creators, builders, traders & online communities in one onchain ecosystem
-  - **[Shelby-Hub](https://github.com/mehedi2580/Shelby-Hub)** — a JavaScript-powered hub project currently in active development
-- 🌱 Learning **Solidity**, **smart contract security**, and **on-chain data analysis**
-- 🤝 Open to collaborating on **Web3 tools**, **DeFi research**, and **community projects**
-- 💬 Ask me about **crypto research**, **testnets**, **airdrops**, or **DeFi strategies**
-- ⚡ Fun fact: I believe every airdrop is a lesson in protocol design
+- 🔭 Building **[ARC-Community](https://github.com/mehedi2580/ARC-Community)** & **[Shelby-Hub](https://github.com/mehedi2580/Shelby-Hub)**
+- 🌱 Learning **Solidity** & **smart contract security**
+- 🤝 Open to collaborate on **Web3 tools** & **DeFi research**
+- 💬 Ask me about **testnets**, **airdrops** & **crypto research**
+- ⚡ Every airdrop is a lesson in protocol design
 
 ---
 
@@ -95,48 +93,18 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 
 ## 🌐 Web3 Activity & Focus Areas
 
-<table>
-  <tr>
-    <td width="50%">
+<div align="center">
 
-**⛓ Blockchain Ecosystems**
-- Ethereum & EVM-compatible chains
-- Layer 2 solutions (Arbitrum, Optimism, zkSync)
-- Cosmos ecosystem & IBC protocols
-- Solana & high-throughput networks
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Layer2](https://img.shields.io/badge/Layer%202-Arbitrum%20%7C%20zkSync-58A6FF?style=flat-square)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-DEX%20%7C%20Lending%20%7C%20Bridges-58A6FF?style=flat-square)
+![Testnets](https://img.shields.io/badge/Testnets-Active%20Participant-2ea44f?style=flat-square)
+![Airdrops](https://img.shields.io/badge/Airdrops-Research%20%26%20Farming-F85D7F?style=flat-square)
+![DAOs](https://img.shields.io/badge/DAOs-Governance%20%26%20Community-8B5CF6?style=flat-square)
+![OpenSource](https://img.shields.io/badge/Open%20Source-Contributor-orange?style=flat-square&logo=github)
 
-    </td>
-    <td width="50%">
-
-**🏦 DeFi Interests**
-- Decentralized exchanges (DEX)
-- Liquidity protocols & yield strategies
-- Lending/borrowing platforms
-- Cross-chain bridges & interoperability
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-
-**🧪 Testnet & Research**
-- Active testnet participation
-- Protocol testing & bug reporting
-- Airdrop farming & eligibility research
-- On-chain data analysis
-
-    </td>
-    <td width="50%">
-
-**🤝 Community**
-- Open-source contributions
-- DAO governance participation
-- Community education & guides
-- Protocol research & documentation
-
-    </td>
-  </tr>
-</table>
+</div>
 
 ---
 
@@ -162,7 +130,3 @@ Passionate about **blockchain technology**, **DeFi ecosystems**, and **community
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-<!-- stats-refresh: 2026-06-24T22:16:33Z -->
-
-<!-- last-updated: 2026-06-24 22:20 UTC -->
