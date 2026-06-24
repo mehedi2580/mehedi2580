@@ -1,28 +1,188 @@
-# Hi, I'm Mehedi 👋
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:087EE1,100:05E8BA&text=%F0%9F%91%8B%20Hello%20there!%20I'm%20Mehedi&textBg=false&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=A%20passionate%20learner%20and%20developer&section=header&animation=fadeIn&descAlignY=52" alt="Header banner" />
+</p>
 
-I'm **@mehedi2580**, a developer who enjoys learning, building, and contributing to projects that solve real problems. I am actively growing my GitHub presence through consistent work, open-source collaboration, and public project updates.
+- :computer: I'm **[@mehedi2580](https://github.com/mehedi2580)**
 
-## About me
+- :seedling: Currently learning, building, and improving my coding skills every day
 
-- 💻 I like building software, exploring new technologies, and improving my coding skills every day.
-- 🚀 I am focused on staying active on GitHub with projects, commits, and contributions.
-- 🤝 I am open to collaboration, community work, and learning with other developers.
-- 📈 My goal is to keep improving my GitHub activity and contribution rating over time.
+- :rocket: Focused on staying active on GitHub with projects, commits, and contributions
 
-## Social handles
+- :handshake: Open to collaboration, community work, and learning with other developers
 
-- X / Twitter: [@0xZeroBit](https://x.com/0xZeroBit)
-- Telegram: [@Mehedi322](https://t.me/Mehedi322)
-- Discord: [Mehedi on Discord](https://discordapp.com/users/988021249944989790)
+- :chart_with_upwards_trend: Goal: keep improving my GitHub activity and contribution rating over time
 
-## GitHub activity and rating
+<h2 align="left" id="mehedi2580-social">Connect With Me</h2>
 
-![Mehedi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&theme=tokyonight&rank_icon=github)
+> You can connect with me in the following ways.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mehedi2580&theme=tokyonight)
+[<img alt="Twitter / X" src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white">](https://x.com/0xZeroBit)
+[<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Mehedi322)
+[<img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">](https://discordapp.com/users/988021249944989790)
+[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">](https://github.com/mehedi2580)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=tokyonight)
+<h2 align="left" id="mehedi2580-tech">Favorite Tech</h2>
 
-## Let's connect
+> Tools, languages, and technologies that I like to work with.
 
-If you want to collaborate, discuss ideas, or connect with me, feel free to reach out through any of my social links above.
+<table>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/html.svg" width="48" height="48" alt="HTML5" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/css.svg" width="48" height="48" alt="CSS3" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/javascript.svg" width="48" height="48" alt="JavaScript" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/typescript.svg" width="48" height="48" alt="TypeScript" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/react-dark.svg" width="48" height="48" alt="React" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nextjs-dark.svg" width="48" height="48" alt="Next.js" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/nodejs-dark.svg" width="48" height="48" alt="Node.js" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/python-dark.svg" width="48" height="48" alt="Python" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">HTML5</td>
+    <td align="center" width="98">CSS3</td>
+    <td align="center" width="98">JavaScript</td>
+    <td align="center" width="98">TypeScript</td>
+    <td align="center" width="98">React</td>
+    <td align="center" width="98">Next.js</td>
+    <td align="center" width="98">Node.js</td>
+    <td align="center" width="98">Python</td>
+  </tr>
+  <tr>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/git-dark.svg" width="48" height="48" alt="Git" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/bash-dark.svg" width="48" height="48" alt="Bash" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/vscode-dark.svg" width="48" height="48" alt="VS Code" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/firebase-dark.svg" width="48" height="48" alt="Firebase" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mongodb.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/mysql-dark.svg" width="48" height="48" alt="MySQL" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/tailwindcss-dark.svg" width="48" height="48" alt="Tailwind CSS" />
+      </a>
+    </td>
+    <td align="center" width="98">
+      <a href="#mehedi2580-tech">
+        <img src="https://raw.githubusercontent.com/LelouchFR/skill-icons/refs/heads/main/assets/figma-dark.svg" width="48" height="48" alt="Figma" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="98">Git</td>
+    <td align="center" width="98">Bash</td>
+    <td align="center" width="98">VS Code</td>
+    <td align="center" width="98">Firebase</td>
+    <td align="center" width="98">MongoDB</td>
+    <td align="center" width="98">MySQL</td>
+    <td align="center" width="98">Tailwind<br>CSS</td>
+    <td align="center" width="98">Figma</td>
+  </tr>
+</table>
+
+<h2 align="left" id="mehedi2580-stats">Activities & Stats</h2>
+
+> My activities and statistics on GitHub.
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="#mehedi2580-stats">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api?username=mehedi2580&rank_icon=github&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&show_icons=true&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api?username=mehedi2580&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api?username=mehedi2580&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&count_private=true&include_all_commits=true&bg_color=00000000" alt="GitHub stats" />
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="#mehedi2580-stats">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000" alt="Top languages" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="#mehedi2580-stats">
+        <picture>
+          <source srcset="https://streak-stats.demolab.com?user=mehedi2580&theme=dracula&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://streak-stats.demolab.com?user=mehedi2580&theme=buefy&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://streak-stats.demolab.com?user=mehedi2580&theme=buefy&border_radius=0&background=FFFFFF00&hide_border=true" alt="GitHub streak" />
+        </picture>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/mehedi2580?tab=repositories">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mehedi2580&repo=mehedi2580&theme=dracula&show_icons=true&border_radius=0&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: dark)" />
+          <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=mehedi2580&repo=mehedi2580&theme=buefy&show_icons=true&border_radius=0&bg_color=00000000&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=mehedi2580&repo=mehedi2580&theme=buefy&show_icons=true&border_radius=0&bg_color=00000000&hide_border=true" alt="Pinned profile repository" />
+        </picture>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<h2 align="left" id="mehedi2580-connect">Let's Connect</h2>
+
+> If you want to collaborate, discuss ideas, or connect with me, feel free to reach out through any of my social links above.
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:05E8BA,100:087EE1&section=footer" alt="Footer wave" />
+</p>
