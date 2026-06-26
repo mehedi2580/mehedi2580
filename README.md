@@ -70,7 +70,7 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 
 <div align="center">
 
-<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=default&count_private=true&include_all_commits=true" />
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=mehedi2580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=default&count_private=true" />
 <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
@@ -130,13 +130,3 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-
-
-
-
-
-
-
-
-<!-- last-updated: 2026-06-26 05:33 UTC -->
