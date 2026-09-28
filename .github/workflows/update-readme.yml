@@ -80,6 +80,6 @@ jobs:
 
           echo "Pinging activity graph..."
           curl -s -o /dev/null -w "Activity graph: %{http_code}\n" \
-            "https://github-readme-activity-graph.vercel.app/graph?username=mehedi2580&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&area_color=58A6FF&hide_border=true"
+            "https://github-readme-activity-graph-mu-ten.vercel.app/graph?username=mehedi2580&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&area_color=58A6FF&hide_border=true&theme=github-compact"
 
           echo "✅ All cards pinged."
