@@ -14,11 +14,11 @@
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X-@0xZeroBit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xZeroBit)
-[![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mehedi322)
-[![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/988021249944989790)
-[![GitHub Followers](https://img.shields.io/github/followers/mehedi2580?style=for-the-badge&logo=github&color=3B82F6&label=Followers)](https://github.com/mehedi2580?tab=followers)
-[![Profile Views](https://hits.sh/github.com/mehedi2580.svg?label=Profile+Views&color=58A6FF&labelColor=0D1117&style=for-the-badge)](https://github.com/mehedi2580)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-@0xZeroBit-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=2D333B)](https://x.com/0xZeroBit)
+[![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2D333B)](https://t.me/Mehedi322)
+[![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2D333B)](https://discordapp.com/users/988021249944989790)
+[![GitHub Followers](https://img.shields.io/github/followers/mehedi2580?style=for-the-badge&logo=github&color=3B82F6&labelColor=2D333B&label=Followers)](https://github.com/mehedi2580?tab=followers)
+[![Profile Views](https://hits.sh/github.com/mehedi2580.svg?label=Profile+Views&color=58A6FF&labelColor=2D333B&style=for-the-badge)](https://github.com/mehedi2580)
 
 </div>
 
@@ -112,10 +112,10 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-@0xZeroBit-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/0xZeroBit)
-[![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mehedi322)
-[![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/988021249944989790)
-[![GitHub](https://img.shields.io/badge/GitHub-@mehedi2580-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mehedi2580)
+[![X](https://img.shields.io/badge/X%20%2F%20Twitter-@0xZeroBit-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=2D333B)](https://x.com/0xZeroBit)
+[![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2D333B)](https://t.me/Mehedi322)
+[![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2D333B)](https://discordapp.com/users/988021249944989790)
+[![GitHub](https://img.shields.io/badge/GitHub-@mehedi2580-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B)](https://github.com/mehedi2580)
 
 </div>
 
@@ -130,5 +130,3 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-<!-- last-updated: 2026-10-01 06:42 UTC -->
