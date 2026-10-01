@@ -8,17 +8,12 @@ on:
   # ── Manual trigger from the Actions tab ─────────────────────────────────────
   workflow_dispatch:
 
-  # ── Also runs on every push to main ─────────────────────────────────────────
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
 
 jobs:
   # ════════════════════════════════════════════════════════════════════════════
-  # JOB 1 — Refresh README stats cache every 4 hours
+  # JOB 1 — Bump README timestamp to bust GitHub's image cache
   # ════════════════════════════════════════════════════════════════════════════
   refresh-stats:
     name: 🔄 Refresh Stats Cache
@@ -29,15 +24,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 1
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # Use a PAT so the push doesn't re-trigger this workflow.
+          # Falls back to GITHUB_TOKEN if PAT_1 is not set — still works,
+          # but GitHub may skip the push-triggered re-run automatically.
+          token: ${{ secrets.PAT_1 || secrets.GITHUB_TOKEN }}
 
-      # Inject an invisible timestamp comment into README.md.
-      # This forces GitHub to re-request all embedded stat images
-      # instead of serving stale cached versions.
       - name: 🕒 Bump cache-bust timestamp
         run: |
           TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
-          # Remove the previous timestamp line (if any) and add a fresh one
           sed -i '/<!-- last-updated:/d' README.md
           printf '\n<!-- last-updated: %s -->\n' "$TIMESTAMP" >> README.md
 
@@ -54,32 +48,36 @@ jobs:
           fi
 
   # ════════════════════════════════════════════════════════════════════════════
-  # JOB 2 — Update profile stats card via readme-stats cache purge
+  # JOB 2 — Pre-warm all stat card APIs so images are fresh when rendered
   # ════════════════════════════════════════════════════════════════════════════
   purge-stats-cache:
     name: 🗑️ Purge Stats Card Cache
     runs-on: ubuntu-latest
+    # Run independently — don't wait for Job 1 to avoid blocking on skip
     needs: refresh-stats
+    if: always()
 
     steps:
-      # Ping the github-readme-stats API directly to warm the cache for
-      # mehedi2580 so the card is fresh when GitHub renders the README.
-      - name: 📡 Warm Stats Card Cache
+      - name: 📡 Warm all stat card caches
         run: |
-          echo "Pinging stats card..."
-          curl -s -o /dev/null -w "Stats card: %{http_code}\n" \
-            "https://github-readme-stats-virid-phi-26.vercel.app/api?username=mehedi2580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=default&count_private=true"
+          echo "── Pinging Stats card ──────────────────────────────────────"
+          curl -sf -o /dev/null -w "Stats card:     HTTP %{http_code}\n" \
+            "https://github-readme-stats-virid-phi-26.vercel.app/api?username=mehedi2580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&rank_icon=default&count_private=true" \
+            || echo "Stats card:     ⚠️ Failed"
 
-          echo "Pinging top-langs card..."
-          curl -s -o /dev/null -w "Top langs: %{http_code}\n" \
-            "https://github-readme-stats-virid-phi-26.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
+          echo "── Pinging Top Languages card ──────────────────────────────"
+          curl -sf -o /dev/null -w "Top langs:      HTTP %{http_code}\n" \
+            "https://github-readme-stats-virid-phi-26.vercel.app/api/top-langs/?username=mehedi2580&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" \
+            || echo "Top langs:      ⚠️ Failed"
 
-          echo "Pinging streak card..."
-          curl -s -o /dev/null -w "Streak: %{http_code}\n" \
-            "https://streak-stats.demolab.com?user=mehedi2580&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9"
+          echo "── Pinging Streak card ─────────────────────────────────────"
+          curl -sf -o /dev/null -w "Streak card:    HTTP %{http_code}\n" \
+            "https://streak-stats.demolab.com?user=mehedi2580&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=79C0FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E&sideNums=C9D1D9&currStreakNum=C9D1D9" \
+            || echo "Streak card:    ⚠️ Failed"
 
-          echo "Pinging activity graph..."
-          curl -s -o /dev/null -w "Activity graph: %{http_code}\n" \
-            "https://github-readme-activity-graph-mu-ten.vercel.app/graph?username=mehedi2580&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&area_color=58A6FF&hide_border=true&theme=github-compact"
+          echo "── Pinging Activity Graph ──────────────────────────────────"
+          curl -sf -o /dev/null -w "Activity graph: HTTP %{http_code}\n" \
+            "https://github-readme-activity-graph-mu-ten.vercel.app/graph?username=mehedi2580&bg_color=0D1117&color=58A6FF&line=58A6FF&point=79C0FF&area=true&area_color=58A6FF&hide_border=true&theme=github-compact" \
+            || echo "Activity graph: ⚠️ Failed"
 
-          echo "✅ All cards pinged."
+          echo "✅ All pings complete."
