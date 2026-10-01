@@ -18,7 +18,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Mehedi322)
 [![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/988021249944989790)
 [![GitHub Followers](https://img.shields.io/github/followers/mehedi2580?style=for-the-badge&logo=github&color=3B82F6&label=Followers)](https://github.com/mehedi2580?tab=followers)
-[![Profile Views](https://visitcount.itsvg.in/api?id=mehedi2580&label=Profile%20Views&color=1&icon=0&pretty=false)](https://visitcount.itsvg.in)
+[![Profile Views](https://hits.sh/github.com/mehedi2580.svg?label=Profile+Views&color=58A6FF&labelColor=0D1117&style=for-the-badge)](https://github.com/mehedi2580)
 
 </div>
 
@@ -130,5 +130,3 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-<!-- last-updated: 2026-10-01 06:40 UTC -->
