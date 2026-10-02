@@ -87,7 +87,6 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 
 </div>
 
-> 🔄 **Stats auto-refresh every 4 hours** via GitHub Actions — always showing live data.
 
 ---
 
@@ -130,8 +129,3 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-
-
-
-<!-- last-updated: 2026-10-02 05:22 UTC -->
