@@ -36,18 +36,6 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | What it is | Links |
-| --- | --- | --- |
-| **eFootball Hub** | eFootball tournament platform — groups, knockout brackets, live standings | [Live](https://e-football-tournament-ochre.vercel.app) · [Repo](https://github.com/mehedi2580/eFootball-Tournament) |
-| **Shelby-Hub** | Shelby storage network explorer with live shelbynet data | [Live](https://shelby-hub-black.vercel.app) · [Repo](https://github.com/mehedi2580/Shelby-Hub) |
-| **ArcFlow** | Multichain DeFi hub on Circle's Arc testnet — send & bridge live | [Live](https://arc-flow-eight.vercel.app) |
-| **Alpha Alert** | Binance Alpha token monitor — stability scores + Telegram volume alerts | [Live](https://alpha-alert-two.vercel.app) |
-| **Wallet Monitor Bot** | Telegram bot tracking wallets across 5 EVM chains + Solana | [Bot](https://t.me/WalletTrackersbot) |
-
----
-
 ## 🛠 Tech Stack
 
 <div align="center">
