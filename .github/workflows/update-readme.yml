@@ -32,8 +32,14 @@ jobs:
       - name: 🕒 Bump cache-bust timestamp
         run: |
           TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
-          sed -i '/<!-- last-updated:/d' README.md
-          printf '\n<!-- last-updated: %s -->\n' "$TIMESTAMP" >> README.md
+          # Update the timestamp in place. The old version deleted the
+          # comment line and appended a new one, which left one extra
+          # blank line at the end of README.md on every run.
+          if grep -q '<!-- last-updated:' README.md; then
+            sed -i "s|<!-- last-updated: .* -->|<!-- last-updated: $TIMESTAMP -->|" README.md
+          else
+            printf '\n<!-- last-updated: %s -->\n' "$TIMESTAMP" >> README.md
+          fi
 
       - name: 📤 Commit & push if changed
         run: |
