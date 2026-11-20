@@ -28,11 +28,23 @@
 
 Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecosystems**.
 
-- 🔭 Building **[ARC-Community](https://github.com/mehedi2580/ARC-Community)** & **[Shelby-Hub](https://github.com/mehedi2580/Shelby-Hub)**
+- 🔭 Building **[eFootball Hub](https://e-football-tournament-ochre.vercel.app)**, **[Shelby-Hub](https://github.com/mehedi2580/Shelby-Hub)**, **[ArcFlow](https://arc-flow-eight.vercel.app)** & **[Alpha Alert](https://alpha-alert-two.vercel.app)**
 - 🌱 Learning **Solidity** & **smart contract security**
 - 🤝 Open to collaborate on **Web3 tools** & **DeFi research**
 - 💬 Ask me about **testnets**, **airdrops** & **crypto research**
 - ⚡ Every airdrop is a lesson in protocol design
+
+---
+
+## 🚀 Featured Projects
+
+| Project | What it is | Links |
+| --- | --- | --- |
+| **eFootball Hub** | eFootball tournament platform — groups, knockout brackets, live standings | [Live](https://e-football-tournament-ochre.vercel.app) · [Repo](https://github.com/mehedi2580/eFootball-Tournament) |
+| **Shelby-Hub** | Shelby storage network explorer with live shelbynet data | [Live](https://shelby-hub-black.vercel.app) · [Repo](https://github.com/mehedi2580/Shelby-Hub) |
+| **ArcFlow** | Multichain DeFi hub on Circle's Arc testnet — send & bridge live | [Live](https://arc-flow-eight.vercel.app) |
+| **Alpha Alert** | Binance Alpha token monitor — stability scores + Telegram volume alerts | [Live](https://alpha-alert-two.vercel.app) |
+| **Wallet Monitor Bot** | Telegram bot tracking wallets across 5 EVM chains + Solana | [Bot](https://t.me/WalletTrackersbot) |
 
 ---
 
@@ -54,6 +66,8 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 **Tools & Platforms**
 
@@ -61,6 +75,10 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -107,19 +125,6 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 
 ---
 
-## 🔗 Connect With Me
-
-<div align="center">
-
-[![X](https://img.shields.io/badge/X%20%2F%20Twitter-@0xZeroBit-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=2D333B)](https://x.com/0xZeroBit)
-[![Telegram](https://img.shields.io/badge/Telegram-@Mehedi322-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2D333B)](https://t.me/Mehedi322)
-[![Discord](https://img.shields.io/badge/Discord-0xZeroBit-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=2D333B)](https://discordapp.com/users/988021249944989790)
-[![GitHub](https://img.shields.io/badge/GitHub-@mehedi2580-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D333B)](https://github.com/mehedi2580)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" />
@@ -129,160 +134,6 @@ Web3 builder passionate about **blockchain**, **DeFi**, and **decentralized ecos
 *"Not your keys, not your coins. Not your nodes, not your network."*
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <!-- last-updated: 2026-11-20 16:53 UTC -->
